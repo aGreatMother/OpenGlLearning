@@ -1,4 +1,11 @@
 ﻿  Application.cpp
+  IndexBuffer.cpp
+d:\document\opengllearning\learn\learn\src\indexbuffer.cpp(9): warning C4101: 'buffer': unreferenced local variable
+  Renderer.cpp
+  Shader.cpp
+  Texture.cpp
   VertexArray.cpp
+  VertexBuffer.cpp
+d:\document\opengllearning\learn\learn\src\vertexbuffer.cpp(6): warning C4101: 'buffer': unreferenced local variable
   Generating Code...
   learn.vcxproj -> D:\Document\OpenGlLearning\learn\Debug\learn.exe
